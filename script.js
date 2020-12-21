@@ -1,4 +1,4 @@
 //This is a comment
 function TestFunction(){
-    document.getElementById("link").href = "b.html";
+    document.getElementById("body").style = "background-color: red;";
 }
