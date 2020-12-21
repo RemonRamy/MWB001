@@ -1,4 +1,4 @@
 //This is a comment
 function TestFunction(){
-    alert("Test message!");
+    document.getElementById("link").href = "b.html";
 }
